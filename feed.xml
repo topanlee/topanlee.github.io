@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>bolg</title>
+    <link href="https://topanlee.github.io/feed.xml" rel="self" />
+    <link href="https://topanlee.github.io" />
+    <updated>2020-12-06T20:28:00+08:00</updated>
+    <author>
+        <name>topan</name>
+    </author>
+    <id>https://topanlee.github.io</id>
+
+    <entry>
+        <title>前言</title>
+        <author>
+            <name>topan</name>
+        </author>
+        <link href="https://topanlee.github.io/qian-yan.html"/>
+        <id>https://topanlee.github.io/qian-yan.html</id>
+
+        <updated>2020-12-06T20:28:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                    没错，这又是一个博客
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>没错，这又是一个博客</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
